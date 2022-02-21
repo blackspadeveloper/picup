@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290604051648",
+    "project_id": "picup-6627c",
+    "storage_bucket": "picup-6627c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290604051648:android:3937916fe7040521909125",
+        "android_client_info": {
+          "package_name": "com.acrox.picup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290604051648-smd9of01vvdofosfs2l42rd1mt1c899q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZJZR_wW6JX0zMuUMUe8nHtM7CV1FYBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290604051648-smd9of01vvdofosfs2l42rd1mt1c899q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
